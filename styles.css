@@ -56,7 +56,7 @@ nav ul{
 }
 
 nav li{
-    background:white;
+    background:purple;
     border:3px solid var(--yellow);
     margin:8px auto;
     width:90%;
@@ -92,7 +92,7 @@ h3{
 }
 
 article{
-    background:white;
+    background:purple;
     border-radius:12px;
     padding:16px;
     margin-bottom:12px;
