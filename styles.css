@@ -1,0 +1,35 @@
+@import 
+url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Kavoon&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+:root{
+    --Teal :#4CA7C0
+    --Purple: #484FB7
+    --Lavender: #6B8FE7
+    --Yellow: #E9BB57
+    --Pink:#D9526F
+    --Dark-gray:#1E1E1E
+    --White:#ffffff; 
+
+}
+
+body{
+    background:var(--lavender);
+    font-family:Inter,sans-serif;
+    color:var(--dark);
+}
+
+.container{
+    width:450px;
+    margin:auto;
+    background:var(--purple);
+}
+
+header{
+    color:
+}
