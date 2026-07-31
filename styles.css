@@ -112,3 +112,46 @@ article h4{
 article p{
     font-size:.8rem;
 }
+
+.features{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:10px;
+}
+
+.features div{
+    text-align:center;
+    font-weight:700;
+    padding: 18px 10px;
+    border-radius:8px;
+}
+
+.features div:nth-child(1){
+    background:var(--teal);
+    color:white;
+}
+
+.features div:nth-child(2){
+    background:var(--pink);
+    color:white;
+}
+
+.features div:nth-child(3){
+    background:var(--yellow);
+}
+
+.features div:nth-child(4){
+    background:var(----white);
+}
+
+#pricing{
+    color:white;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    background:white;
+    margin: 10px 0 20px;
+}
+
