@@ -168,3 +168,35 @@ td{
     text-align:center;
     font-size:.8rem;
 }
+
+
+#contact{
+    background:var(--pink);
+    color:white;
+    padding: 18px;
+    border-radius:0;
+    text-align:left;
+}
+
+#contact h2{
+    margin-bottom:10px;
+}
+
+#contact p{
+    font-size:.85rem;
+    margin-bottom:15px;
+}
+
+#contact a{
+    display:bock;
+    width:180px;
+    margin:auto;
+    text-align:center;
+    text-decoration:none;
+    color:black;
+    background:white;
+    padding:10px;
+    border-radius:20px;
+    font-weight:700;
+}
+
