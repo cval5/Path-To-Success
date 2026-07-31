@@ -188,7 +188,7 @@ td{
 }
 
 #contact a{
-    display:bock;
+    display:block;
     width:180px;
     margin:auto;
     text-align:center;
@@ -200,3 +200,11 @@ td{
     font-weight:700;
 }
 
+footer{
+    background:#3b3fa0;
+    color:white;
+    display:flex;
+    justify-content:space-between;
+    padding:14px;
+    font-size:.7rem;
+}
